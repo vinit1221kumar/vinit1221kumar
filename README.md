@@ -100,7 +100,7 @@
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vinit1221kumar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
+  <img src="https://streak-stats.demolab.com?user=vinit1221kumar&theme=tokyonight&hide_border=false" height="220" />
 </div>
 
 ###
