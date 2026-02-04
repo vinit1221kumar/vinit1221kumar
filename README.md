@@ -97,14 +97,6 @@
 
 ###
 
-🔥 My Stats
-<p align="center"> <img src="https://streak-stats.demolab.com?user=vinit1221kumar&theme=tokyonight&hide_border=false" height="220"/> </p>
-
-
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vinit1221kumar&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinit1221kumar&layout=compact&theme=tokyonight" height="170"/> </p>
-
-###
 
 ## 💭 Daily Thoughts
 
