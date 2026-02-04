@@ -1,0 +1,54 @@
+name: Daily Thoughts Generator
+
+on:
+  schedule:
+    # Runs at 9:00 AM UTC daily
+    - cron: '0 9 * * *'
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  generate-thoughts:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Generate daily thoughts
+        run: python3 generate_thoughts.py
+      
+      - name: Update README with thoughts
+        run: python3 update_readme.py
+      
+      - name: Configure git
+        run: |
+          git config user.name "Vinit Singh"
+          git config user.email "114796367+vinit1221kumar@users.noreply.github.com"
+      
+      - name: Commit content update
+        run: |
+          git add README.md
+          git commit -m "docs: update daily thoughts" || echo "No changes to commit"
+      
+      - name: Commit metadata
+        run: |
+          git add -A
+          CURRENT_DATE=$(date '+%Y-%m-%d')
+          git commit -m "chore: daily automation run for $CURRENT_DATE" || echo "No changes to commit"
+      
+      - name: Push to main branch
+        run: git push origin main || echo "Nothing to push"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
