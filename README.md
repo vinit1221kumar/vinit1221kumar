@@ -97,20 +97,12 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+🔥 My Stats
+<p align="center"> <img src="https://streak-stats.demolab.com?user=vinit1221kumar&theme=tokyonight&hide_border=false" height="220"/> </p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vinit1221kumar&theme=tokyonight&hide_border=false" height="220" />
-</div>
 
-###
-
-<h3 align="left">📊 GitHub Analytics</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinit1221kumar&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinit1221kumar&layout=compact&theme=tokyonight" height="170" />
-</div>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vinit1221kumar&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinit1221kumar&layout=compact&theme=tokyonight" height="170"/> </p>
 
 ###
 
