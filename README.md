@@ -100,12 +100,7 @@
 An automated daily thought generation and GitHub contribution system.
 
 
-<<<<<<< HEAD
 <!-- THOUGHTS_START -->
-=======
----
-
->>>>>>> 690c0c7d0d1404ea99533b63b967ea0fc925be45
 ## Today's Thoughts (2026-02-11)
 
 1. Success is not a destination; it's the accumulation of meaningful decisions made daily.
@@ -113,11 +108,7 @@ An automated daily thought generation and GitHub contribution system.
 
 ---
 
-<<<<<<< HEAD
 *Last updated: 2026-02-11 10:00:30*
 <!-- THOUGHTS_END -->
-=======
-*Last updated: 2026-02-11 09:53:09*
->>>>>>> 690c0c7d0d1404ea99533b63b967ea0fc925be45
 
 *This README is automatically regenerated daily with fresh thoughts.*
