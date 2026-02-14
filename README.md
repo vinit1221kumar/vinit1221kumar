@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-02-13)
+## Today's Thoughts (2026-02-14)
 
-1. The courage to experiment is what turns theory into practice and dreams into reality.
-2. Collaboration multiplies possibilities that individual effort alone cannot reach.
+1. Learning to say no protects the space needed to say yes to what truly matters.
+2. The quality of our attention determines the quality of our work and relationships.
 
 ---
 
-*Last updated: 2026-02-13 09:42:41*
+*Last updated: 2026-02-14 09:30:18*
 
 *This README is automatically regenerated daily with fresh thoughts.*
