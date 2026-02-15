@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-02-14)
+## Today's Thoughts (2026-02-15)
 
-1. Learning to say no protects the space needed to say yes to what truly matters.
-2. The quality of our attention determines the quality of our work and relationships.
+1. Our greatest limitations often exist only in the boundaries of our imagination.
+2. Wisdom is knowing which battles to fight and which to let go.
 
 ---
 
-*Last updated: 2026-02-14 09:30:18*
+*Last updated: 2026-02-15 09:31:10*
 
 *This README is automatically regenerated daily with fresh thoughts.*
