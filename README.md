@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-03-10)
+## Today's Thoughts (2026-03-11)
 
-1. Reflection is not a luxury; it's the compass that keeps us moving in the right direction.
-2. Connection with others amplifies what we can achieve alone.
+1. Every problem contains the seed of an equal or greater opportunity.
+2. The quality of our attention determines the quality of our work and relationships.
 
 ---
 
-*Last updated: 2026-03-10 09:42:25*
+*Last updated: 2026-03-11 09:41:14*
 
 *This README is automatically regenerated daily with fresh thoughts.*
