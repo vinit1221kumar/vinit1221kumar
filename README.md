@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-03-16)
+## Today's Thoughts (2026-03-17)
 
-1. The stories we tell ourselves shape the reality we create.
-2. Meaningful impact comes from consistent effort applied over time, not from sudden bursts.
+1. Meaningful impact comes from consistent effort applied over time, not from sudden bursts.
+2. Wisdom is knowing which battles to fight and which to let go.
 
 ---
 
-*Last updated: 2026-03-16 10:05:49*
+*Last updated: 2026-03-17 09:55:15*
 
 *This README is automatically regenerated daily with fresh thoughts.*
