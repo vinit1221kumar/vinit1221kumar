@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-03-30)
+## Today's Thoughts (2026-03-31)
 
-1. Wisdom is knowing which battles to fight and which to let go.
-2. Growth happens when we choose to embrace challenge over comfort.
+1. The stories we tell ourselves shape the reality we create.
+2. Progress is not linear; every setback carries lessons that propel us forward.
 
 ---
 
-*Last updated: 2026-03-30 10:16:09*
+*Last updated: 2026-03-31 10:04:50*
 
 *This README is automatically regenerated daily with fresh thoughts.*
