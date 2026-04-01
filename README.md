@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-03-31)
+## Today's Thoughts (2026-04-01)
 
-1. The stories we tell ourselves shape the reality we create.
-2. Progress is not linear; every setback carries lessons that propel us forward.
+1. The quality of our attention determines the quality of our work and relationships.
+2. Every problem contains the seed of an equal or greater opportunity.
 
 ---
 
-*Last updated: 2026-03-31 10:04:50*
+*Last updated: 2026-04-01 10:05:30*
 
 *This README is automatically regenerated daily with fresh thoughts.*
