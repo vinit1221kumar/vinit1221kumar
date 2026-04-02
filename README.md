@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-04-01)
+## Today's Thoughts (2026-04-02)
 
-1. The quality of our attention determines the quality of our work and relationships.
-2. Every problem contains the seed of an equal or greater opportunity.
+1. The only way to do great work is to care deeply about what you do.
+2. Success is not a destination; it's the accumulation of meaningful decisions made daily.
 
 ---
 
-*Last updated: 2026-04-01 10:05:30*
+*Last updated: 2026-04-02 10:01:08*
 
 *This README is automatically regenerated daily with fresh thoughts.*
