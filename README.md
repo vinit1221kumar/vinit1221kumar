@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-04-02)
+## Today's Thoughts (2026-04-03)
 
-1. The only way to do great work is to care deeply about what you do.
-2. Success is not a destination; it's the accumulation of meaningful decisions made daily.
+1. Success is not a destination; it's the accumulation of meaningful decisions made daily.
+2. The stories we tell ourselves shape the reality we create.
 
 ---
 
-*Last updated: 2026-04-02 10:01:08*
+*Last updated: 2026-04-03 09:52:31*
 
 *This README is automatically regenerated daily with fresh thoughts.*
