@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-04-04)
+## Today's Thoughts (2026-04-05)
 
-1. Wisdom is knowing which battles to fight and which to let go.
-2. The only way to do great work is to care deeply about what you do.
+1. Purpose is found not in what we seek, but in what we become in the seeking.
+2. The willingness to be vulnerable is the gateway to authentic growth.
 
 ---
 
-*Last updated: 2026-04-04 09:37:17*
+*Last updated: 2026-04-05 09:37:43*
 
 *This README is automatically regenerated daily with fresh thoughts.*
