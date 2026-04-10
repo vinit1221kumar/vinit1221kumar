@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-04-09)
+## Today's Thoughts (2026-04-10)
 
-1. True confidence comes from accepting both our strengths and our limitations.
-2. Systems and habits free our minds to focus on what truly matters.
+1. Every moment is a choice to move closer to or further from your potential.
+2. Excellence is a journey of incremental improvements woven together with intent.
 
 ---
 
-*Last updated: 2026-04-09 10:12:45*
+*Last updated: 2026-04-10 10:07:18*
 
 *This README is automatically regenerated daily with fresh thoughts.*
