@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-04-16)
+## Today's Thoughts (2026-04-17)
 
-1. Excellence is a journey of incremental improvements woven together with intent.
-2. Our greatest limitations often exist only in the boundaries of our imagination.
+1. True confidence comes from accepting both our strengths and our limitations.
+2. The willingness to be vulnerable is the gateway to authentic growth.
 
 ---
 
-*Last updated: 2026-04-16 10:14:59*
+*Last updated: 2026-04-17 10:13:21*
 
 *This README is automatically regenerated daily with fresh thoughts.*
