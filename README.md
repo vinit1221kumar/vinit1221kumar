@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-04-17)
+## Today's Thoughts (2026-04-18)
 
-1. True confidence comes from accepting both our strengths and our limitations.
-2. The willingness to be vulnerable is the gateway to authentic growth.
+1. True learning requires us to unlearn what we thought we knew.
+2. Systems and habits free our minds to focus on what truly matters.
 
 ---
 
-*Last updated: 2026-04-17 10:13:21*
+*Last updated: 2026-04-18 09:47:41*
 
 *This README is automatically regenerated daily with fresh thoughts.*
