@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-04-20)
+## Today's Thoughts (2026-04-21)
 
-1. Clarity of vision emerges from honest reflection, not from endless planning.
-2. Reflection is not a luxury; it's the compass that keeps us moving in the right direction.
+1. The best time to plant a tree was yesterday; the second best time is now.
+2. Success is not a destination; it's the accumulation of meaningful decisions made daily.
 
 ---
 
-*Last updated: 2026-04-20 10:47:09*
+*Last updated: 2026-04-21 10:17:23*
 
 *This README is automatically regenerated daily with fresh thoughts.*
