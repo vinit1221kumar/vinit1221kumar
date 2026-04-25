@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-04-24)
+## Today's Thoughts (2026-04-25)
 
-1. Every moment is a choice to move closer to or further from your potential.
-2. Growth happens when we choose to embrace challenge over comfort.
+1. Adversity reveals our character and refines our capabilities in ways comfort never could.
+2. Mastery is not about perfection; it's about the relentless pursuit of improvement.
 
 ---
 
-*Last updated: 2026-04-24 10:20:30*
+*Last updated: 2026-04-25 09:52:17*
 
 *This README is automatically regenerated daily with fresh thoughts.*
