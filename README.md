@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-04-25)
+## Today's Thoughts (2026-04-26)
 
-1. Adversity reveals our character and refines our capabilities in ways comfort never could.
-2. Mastery is not about perfection; it's about the relentless pursuit of improvement.
+1. Progress is not linear; every setback carries lessons that propel us forward.
+2. Every moment is a choice to move closer to or further from your potential.
 
 ---
 
-*Last updated: 2026-04-25 09:52:17*
+*Last updated: 2026-04-26 09:53:05*
 
 *This README is automatically regenerated daily with fresh thoughts.*
