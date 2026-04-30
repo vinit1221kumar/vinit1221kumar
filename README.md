@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-04-29)
+## Today's Thoughts (2026-04-30)
 
-1. The courage to experiment is what turns theory into practice and dreams into reality.
-2. True confidence comes from accepting both our strengths and our limitations.
+1. Systems and habits free our minds to focus on what truly matters.
+2. The obstacles we face are the raw material for our greatest achievements.
 
 ---
 
-*Last updated: 2026-04-29 10:54:44*
+*Last updated: 2026-04-30 10:54:25*
 
 *This README is automatically regenerated daily with fresh thoughts.*
