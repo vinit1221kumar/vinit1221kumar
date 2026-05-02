@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-05-01)
+## Today's Thoughts (2026-05-02)
 
-1. The future belongs to those who build instead of merely observe.
-2. Complexity is often the enemy of execution; simplicity creates momentum.
+1. Failure is not the opposite of success—it's a prerequisite for it.
+2. Wisdom is knowing which battles to fight and which to let go.
 
 ---
 
-*Last updated: 2026-05-01 10:22:02*
+*Last updated: 2026-05-02 09:57:09*
 
 *This README is automatically regenerated daily with fresh thoughts.*
