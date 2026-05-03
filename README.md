@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-05-02)
+## Today's Thoughts (2026-05-03)
 
-1. Failure is not the opposite of success—it's a prerequisite for it.
-2. Wisdom is knowing which battles to fight and which to let go.
+1. Complexity is often the enemy of execution; simplicity creates momentum.
+2. Systems and habits free our minds to focus on what truly matters.
 
 ---
 
-*Last updated: 2026-05-02 09:57:09*
+*Last updated: 2026-05-03 10:03:18*
 
 *This README is automatically regenerated daily with fresh thoughts.*
