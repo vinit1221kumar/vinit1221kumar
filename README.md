@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-05-06)
+## Today's Thoughts (2026-05-07)
 
-1. Purpose is found not in what we seek, but in what we become in the seeking.
-2. The stories we tell ourselves shape the reality we create.
+1. The questions we ask shape the answers we discover and the paths we take.
+2. Learning to say no protects the space needed to say yes to what truly matters.
 
 ---
 
-*Last updated: 2026-05-06 11:06:25*
+*Last updated: 2026-05-07 11:08:58*
 
 *This README is automatically regenerated daily with fresh thoughts.*
