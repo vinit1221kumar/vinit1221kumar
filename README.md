@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-05-29)
+## Today's Thoughts (2026-05-30)
 
-1. Learning to say no protects the space needed to say yes to what truly matters.
-2. Failure is not the opposite of success—it's a prerequisite for it.
+1. The smallest actions, repeated consistently, create the greatest transformations.
+2. Wisdom is knowing which battles to fight and which to let go.
 
 ---
 
-*Last updated: 2026-05-29 12:14:43*
+*Last updated: 2026-05-30 10:46:21*
 
 *This README is automatically regenerated daily with fresh thoughts.*
