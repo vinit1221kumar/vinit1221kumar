@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-06-01)
+## Today's Thoughts (2026-06-02)
 
-1. The stories we tell ourselves shape the reality we create.
-2. The greatest discoveries often come from the intersection of curiosity and persistence.
+1. Failure is not the opposite of success—it's a prerequisite for it.
+2. Creativity flourishes when we give ourselves permission to explore without judgment.
 
 ---
 
-*Last updated: 2026-06-01 15:20:29*
+*Last updated: 2026-06-02 12:39:54*
 
 *This README is automatically regenerated daily with fresh thoughts.*
