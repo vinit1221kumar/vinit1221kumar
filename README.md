@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-06-13)
+## Today's Thoughts (2026-06-14)
 
-1. The greatest discoveries often come from the intersection of curiosity and persistence.
-2. Clarity of vision emerges from honest reflection, not from endless planning.
+1. The power to change begins with the courage to see things differently.
+2. The obstacles we face are the raw material for our greatest achievements.
 
 ---
 
-*Last updated: 2026-06-13 11:12:59*
+*Last updated: 2026-06-14 11:29:19*
 
 *This README is automatically regenerated daily with fresh thoughts.*
