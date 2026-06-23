@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-06-22)
+## Today's Thoughts (2026-06-23)
 
-1. Innovation thrives at the boundary between what is known and what is possible.
-2. Purpose is found not in what we seek, but in what we become in the seeking.
+1. Clarity of vision emerges from honest reflection, not from endless planning.
+2. Adversity reveals our character and refines our capabilities in ways comfort never could.
 
 ---
 
-*Last updated: 2026-06-22 14:38:14*
+*Last updated: 2026-06-23 12:06:03*
 
 *This README is automatically regenerated daily with fresh thoughts.*
