@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-06-27)
+## Today's Thoughts (2026-06-28)
 
-1. Purpose is found not in what we seek, but in what we become in the seeking.
-2. Mastery is not about perfection; it's about the relentless pursuit of improvement.
+1. Success is not a destination; it's the accumulation of meaningful decisions made daily.
+2. Failure is not the opposite of success—it's a prerequisite for it.
 
 ---
 
-*Last updated: 2026-06-27 10:56:45*
+*Last updated: 2026-06-28 11:05:52*
 
 *This README is automatically regenerated daily with fresh thoughts.*
