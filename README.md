@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-06-28)
+## Today's Thoughts (2026-06-29)
 
-1. Success is not a destination; it's the accumulation of meaningful decisions made daily.
-2. Failure is not the opposite of success—it's a prerequisite for it.
+1. Patience and persistence are the foundation upon which lasting achievements are built.
+2. Wisdom is knowing which battles to fight and which to let go.
 
 ---
 
-*Last updated: 2026-06-28 11:05:52*
+*Last updated: 2026-06-29 13:05:44*
 
 *This README is automatically regenerated daily with fresh thoughts.*
