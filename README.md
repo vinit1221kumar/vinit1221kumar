@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-07-03)
+## Today's Thoughts (2026-07-04)
 
-1. Every moment is a choice to move closer to or further from your potential.
-2. The discipline to start is important, but the discipline to finish is transformative.
+1. Growth happens when we choose to embrace challenge over comfort.
+2. The quality of our attention determines the quality of our work and relationships.
 
 ---
 
-*Last updated: 2026-07-03 11:31:02*
+*Last updated: 2026-07-04 10:53:19*
 
 *This README is automatically regenerated daily with fresh thoughts.*
