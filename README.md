@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-07-07)
+## Today's Thoughts (2026-07-08)
 
-1. Excellence is a journey of incremental improvements woven together with intent.
-2. Innovation thrives at the boundary between what is known and what is possible.
+1. Learning to say no protects the space needed to say yes to what truly matters.
+2. Mastery is not about perfection; it's about the relentless pursuit of improvement.
 
 ---
 
-*Last updated: 2026-07-07 11:48:55*
+*Last updated: 2026-07-08 11:02:44*
 
 *This README is automatically regenerated daily with fresh thoughts.*
