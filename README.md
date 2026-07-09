@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-07-08)
+## Today's Thoughts (2026-07-09)
 
-1. Learning to say no protects the space needed to say yes to what truly matters.
-2. Mastery is not about perfection; it's about the relentless pursuit of improvement.
+1. Mastery is not about perfection; it's about the relentless pursuit of improvement.
+2. Every problem contains the seed of an equal or greater opportunity.
 
 ---
 
-*Last updated: 2026-07-08 11:02:44*
+*Last updated: 2026-07-09 11:55:59*
 
 *This README is automatically regenerated daily with fresh thoughts.*
