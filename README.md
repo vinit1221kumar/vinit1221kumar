@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-07-16)
+## Today's Thoughts (2026-07-17)
 
-1. Complexity is often the enemy of execution; simplicity creates momentum.
-2. True confidence comes from accepting both our strengths and our limitations.
+1. The power to change begins with the courage to see things differently.
+2. Adversity reveals our character and refines our capabilities in ways comfort never could.
 
 ---
 
-*Last updated: 2026-07-16 10:58:09*
+*Last updated: 2026-07-17 10:45:43*
 
 *This README is automatically regenerated daily with fresh thoughts.*
