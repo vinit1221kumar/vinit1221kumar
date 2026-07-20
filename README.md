@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-07-19)
+## Today's Thoughts (2026-07-20)
 
-1. Real progress is measured by the depth of understanding, not the speed of execution.
-2. Clarity of vision emerges from honest reflection, not from endless planning.
+1. Success is not a destination; it's the accumulation of meaningful decisions made daily.
+2. Wisdom is knowing which battles to fight and which to let go.
 
 ---
 
-*Last updated: 2026-07-19 10:26:20*
+*Last updated: 2026-07-20 11:43:31*
 
 *This README is automatically regenerated daily with fresh thoughts.*
