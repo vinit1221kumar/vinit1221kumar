@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-07-21)
+## Today's Thoughts (2026-07-22)
 
-1. Wisdom is knowing which battles to fight and which to let go.
-2. Excellence is a journey of incremental improvements woven together with intent.
+1. The obstacles we face are the raw material for our greatest achievements.
+2. True confidence comes from accepting both our strengths and our limitations.
 
 ---
 
-*Last updated: 2026-07-21 11:06:32*
+*Last updated: 2026-07-22 11:08:09*
 
 *This README is automatically regenerated daily with fresh thoughts.*
