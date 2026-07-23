@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-07-22)
+## Today's Thoughts (2026-07-23)
 
-1. The obstacles we face are the raw material for our greatest achievements.
-2. True confidence comes from accepting both our strengths and our limitations.
+1. Wisdom is knowing which battles to fight and which to let go.
+2. Every moment is a choice to move closer to or further from your potential.
 
 ---
 
-*Last updated: 2026-07-22 11:08:09*
+*Last updated: 2026-07-23 11:07:49*
 
 *This README is automatically regenerated daily with fresh thoughts.*
