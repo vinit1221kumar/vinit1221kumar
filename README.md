@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-07-25)
+## Today's Thoughts (2026-07-26)
 
-1. Growth happens when we choose to embrace challenge over comfort.
-2. Purpose is found not in what we seek, but in what we become in the seeking.
+1. Success is not a destination; it's the accumulation of meaningful decisions made daily.
+2. Learning to say no protects the space needed to say yes to what truly matters.
 
 ---
 
-*Last updated: 2026-07-25 10:25:28*
+*Last updated: 2026-07-26 10:43:08*
 
 *This README is automatically regenerated daily with fresh thoughts.*
