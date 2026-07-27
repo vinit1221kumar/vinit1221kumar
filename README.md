@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-07-26)
+## Today's Thoughts (2026-07-27)
 
-1. Success is not a destination; it's the accumulation of meaningful decisions made daily.
-2. Learning to say no protects the space needed to say yes to what truly matters.
+1. The only way to do great work is to care deeply about what you do.
+2. Growth happens when we choose to embrace challenge over comfort.
 
 ---
 
-*Last updated: 2026-07-26 10:43:08*
+*Last updated: 2026-07-27 12:21:13*
 
 *This README is automatically regenerated daily with fresh thoughts.*
