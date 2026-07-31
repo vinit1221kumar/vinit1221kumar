@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-07-30)
+## Today's Thoughts (2026-07-31)
 
-1. Real progress is measured by the depth of understanding, not the speed of execution.
-2. Complexity is often the enemy of execution; simplicity creates momentum.
+1. The obstacles we face are the raw material for our greatest achievements.
+2. Systems and habits free our minds to focus on what truly matters.
 
 ---
 
-*Last updated: 2026-07-30 11:06:37*
+*Last updated: 2026-07-31 11:27:52*
 
 *This README is automatically regenerated daily with fresh thoughts.*
