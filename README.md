@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-08-07)
+## Today's Thoughts (2026-08-08)
 
-1. The smallest actions, repeated consistently, create the greatest transformations.
-2. The only way to do great work is to care deeply about what you do.
+1. Every moment is a choice to move closer to or further from your potential.
+2. Success is not a destination; it's the accumulation of meaningful decisions made daily.
 
 ---
 
-*Last updated: 2026-08-07 09:59:41*
+*Last updated: 2026-08-08 09:35:27*
 
 *This README is automatically regenerated daily with fresh thoughts.*
