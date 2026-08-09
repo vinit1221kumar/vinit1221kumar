@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-08-08)
+## Today's Thoughts (2026-08-09)
 
-1. Every moment is a choice to move closer to or further from your potential.
-2. Success is not a destination; it's the accumulation of meaningful decisions made daily.
+1. The quality of our attention determines the quality of our work and relationships.
+2. The power to change begins with the courage to see things differently.
 
 ---
 
-*Last updated: 2026-08-08 09:35:27*
+*Last updated: 2026-08-09 09:37:14*
 
 *This README is automatically regenerated daily with fresh thoughts.*
