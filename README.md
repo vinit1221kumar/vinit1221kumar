@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-08-09)
+## Today's Thoughts (2026-08-10)
 
-1. The quality of our attention determines the quality of our work and relationships.
-2. The power to change begins with the courage to see things differently.
+1. The only way to do great work is to care deeply about what you do.
+2. True learning requires us to unlearn what we thought we knew.
 
 ---
 
-*Last updated: 2026-08-09 09:37:14*
+*Last updated: 2026-08-10 10:14:40*
 
 *This README is automatically regenerated daily with fresh thoughts.*
