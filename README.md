@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-08-13)
+## Today's Thoughts (2026-08-14)
 
-1. Reflection is not a luxury; it's the compass that keeps us moving in the right direction.
-2. Growth happens when we choose to embrace challenge over comfort.
+1. The quality of our attention determines the quality of our work and relationships.
+2. Excellence is a journey of incremental improvements woven together with intent.
 
 ---
 
-*Last updated: 2026-08-13 10:03:21*
+*Last updated: 2026-08-14 09:58:32*
 
 *This README is automatically regenerated daily with fresh thoughts.*
