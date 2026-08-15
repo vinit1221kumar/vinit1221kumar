@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-08-14)
+## Today's Thoughts (2026-08-15)
 
-1. The quality of our attention determines the quality of our work and relationships.
-2. Excellence is a journey of incremental improvements woven together with intent.
+1. The discipline to start is important, but the discipline to finish is transformative.
+2. The quality of our attention determines the quality of our work and relationships.
 
 ---
 
-*Last updated: 2026-08-14 09:58:32*
+*Last updated: 2026-08-15 09:23:42*
 
 *This README is automatically regenerated daily with fresh thoughts.*
