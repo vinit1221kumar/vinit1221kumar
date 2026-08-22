@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-08-21)
+## Today's Thoughts (2026-08-22)
 
-1. Our greatest limitations often exist only in the boundaries of our imagination.
-2. Systems and habits free our minds to focus on what truly matters.
+1. Learning to say no protects the space needed to say yes to what truly matters.
+2. Complexity is often the enemy of execution; simplicity creates momentum.
 
 ---
 
-*Last updated: 2026-08-21 09:34:05*
+*Last updated: 2026-08-22 09:24:13*
 
 *This README is automatically regenerated daily with fresh thoughts.*
