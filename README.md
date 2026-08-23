@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-08-22)
+## Today's Thoughts (2026-08-23)
 
-1. Learning to say no protects the space needed to say yes to what truly matters.
-2. Complexity is often the enemy of execution; simplicity creates momentum.
+1. Wisdom is knowing which battles to fight and which to let go.
+2. Every problem contains the seed of an equal or greater opportunity.
 
 ---
 
-*Last updated: 2026-08-22 09:24:13*
+*Last updated: 2026-08-23 09:25:10*
 
 *This README is automatically regenerated daily with fresh thoughts.*
