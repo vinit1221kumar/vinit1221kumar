@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-08-24)
+## Today's Thoughts (2026-08-25)
 
-1. Success is not a destination; it's the accumulation of meaningful decisions made daily.
-2. Clarity of vision emerges from honest reflection, not from endless planning.
+1. The power to change begins with the courage to see things differently.
+2. True learning requires us to unlearn what we thought we knew.
 
 ---
 
-*Last updated: 2026-08-24 09:44:55*
+*Last updated: 2026-08-25 09:33:05*
 
 *This README is automatically regenerated daily with fresh thoughts.*
