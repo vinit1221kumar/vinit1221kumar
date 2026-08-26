@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-08-25)
+## Today's Thoughts (2026-08-26)
 
-1. The power to change begins with the courage to see things differently.
-2. True learning requires us to unlearn what we thought we knew.
+1. Patience and persistence are the foundation upon which lasting achievements are built.
+2. The only way to do great work is to care deeply about what you do.
 
 ---
 
-*Last updated: 2026-08-25 09:33:05*
+*Last updated: 2026-08-26 09:38:52*
 
 *This README is automatically regenerated daily with fresh thoughts.*
