@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-08-28)
+## Today's Thoughts (2026-08-29)
 
-1. True confidence comes from accepting both our strengths and our limitations.
-2. Failure is not the opposite of success—it's a prerequisite for it.
+1. The obstacles we face are the raw material for our greatest achievements.
+2. The greatest discoveries often come from the intersection of curiosity and persistence.
 
 ---
 
-*Last updated: 2026-08-28 20:42:09*
+*Last updated: 2026-08-29 14:09:50*
 
 *This README is automatically regenerated daily with fresh thoughts.*
