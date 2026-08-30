@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-08-29)
+## Today's Thoughts (2026-08-30)
 
-1. The obstacles we face are the raw material for our greatest achievements.
-2. The greatest discoveries often come from the intersection of curiosity and persistence.
+1. Success is not a destination; it's the accumulation of meaningful decisions made daily.
+2. Mastery is not about perfection; it's about the relentless pursuit of improvement.
 
 ---
 
-*Last updated: 2026-08-29 14:09:50*
+*Last updated: 2026-08-30 14:16:30*
 
 *This README is automatically regenerated daily with fresh thoughts.*
