@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-08-30)
+## Today's Thoughts (2026-08-31)
 
-1. Success is not a destination; it's the accumulation of meaningful decisions made daily.
-2. Mastery is not about perfection; it's about the relentless pursuit of improvement.
+1. The questions we ask shape the answers we discover and the paths we take.
+2. Failure is not the opposite of success—it's a prerequisite for it.
 
 ---
 
-*Last updated: 2026-08-30 14:16:30*
+*Last updated: 2026-08-31 16:43:14*
 
 *This README is automatically regenerated daily with fresh thoughts.*
