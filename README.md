@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-09-02)
+## Today's Thoughts (2026-09-03)
 
-1. Success is not a destination; it's the accumulation of meaningful decisions made daily.
-2. Real progress is measured by the depth of understanding, not the speed of execution.
+1. Progress is not linear; every setback carries lessons that propel us forward.
+2. Purpose is found not in what we seek, but in what we become in the seeking.
 
 ---
 
-*Last updated: 2026-09-02 13:14:12*
+*Last updated: 2026-09-03 13:15:07*
 
 *This README is automatically regenerated daily with fresh thoughts.*
