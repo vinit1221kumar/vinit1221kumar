@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-09-13)
+## Today's Thoughts (2026-09-14)
 
-1. Progress is not linear; every setback carries lessons that propel us forward.
-2. Creativity flourishes when we give ourselves permission to explore without judgment.
+1. The discipline to start is important, but the discipline to finish is transformative.
+2. Wisdom is knowing which battles to fight and which to let go.
 
 ---
 
-*Last updated: 2026-09-13 13:40:12*
+*Last updated: 2026-09-14 15:39:58*
 
 *This README is automatically regenerated daily with fresh thoughts.*
