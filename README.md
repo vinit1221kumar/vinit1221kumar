@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-09-14)
+## Today's Thoughts (2026-09-15)
 
-1. The discipline to start is important, but the discipline to finish is transformative.
-2. Wisdom is knowing which battles to fight and which to let go.
+1. Adversity reveals our character and refines our capabilities in ways comfort never could.
+2. Meaningful impact comes from consistent effort applied over time, not from sudden bursts.
 
 ---
 
-*Last updated: 2026-09-14 15:39:58*
+*Last updated: 2026-09-15 14:10:04*
 
 *This README is automatically regenerated daily with fresh thoughts.*
