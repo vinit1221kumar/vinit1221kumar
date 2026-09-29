@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-09-28)
+## Today's Thoughts (2026-09-29)
 
-1. Mastery is not about perfection; it's about the relentless pursuit of improvement.
-2. Meaningful impact comes from consistent effort applied over time, not from sudden bursts.
+1. Every moment is a choice to move closer to or further from your potential.
+2. Clarity of vision emerges from honest reflection, not from endless planning.
 
 ---
 
-*Last updated: 2026-09-28 17:21:14*
+*Last updated: 2026-09-29 15:22:04*
 
 *This README is automatically regenerated daily with fresh thoughts.*
