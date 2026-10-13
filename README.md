@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-10-12)
+## Today's Thoughts (2026-10-13)
 
-1. The smallest actions, repeated consistently, create the greatest transformations.
-2. Adversity reveals our character and refines our capabilities in ways comfort never could.
+1. The quality of our attention determines the quality of our work and relationships.
+2. The future belongs to those who build instead of merely observe.
 
 ---
 
-*Last updated: 2026-10-12 18:36:15*
+*Last updated: 2026-10-13 16:43:22*
 
 *This README is automatically regenerated daily with fresh thoughts.*
