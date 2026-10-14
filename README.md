@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-10-13)
+## Today's Thoughts (2026-10-14)
 
 1. The quality of our attention determines the quality of our work and relationships.
-2. The future belongs to those who build instead of merely observe.
+2. Failure is not the opposite of success—it's a prerequisite for it.
 
 ---
 
-*Last updated: 2026-10-13 16:43:22*
+*Last updated: 2026-10-14 14:19:59*
 
 *This README is automatically regenerated daily with fresh thoughts.*
