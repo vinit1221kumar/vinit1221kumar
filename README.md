@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-10-14)
+## Today's Thoughts (2026-10-15)
 
-1. The quality of our attention determines the quality of our work and relationships.
-2. Failure is not the opposite of success—it's a prerequisite for it.
+1. The smallest actions, repeated consistently, create the greatest transformations.
+2. The stories we tell ourselves shape the reality we create.
 
 ---
 
-*Last updated: 2026-10-14 14:19:59*
+*Last updated: 2026-10-15 13:57:29*
 
 *This README is automatically regenerated daily with fresh thoughts.*
