@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-10-17)
+## Today's Thoughts (2026-10-18)
 
-1. Mastery is not about perfection; it's about the relentless pursuit of improvement.
-2. The greatest discoveries often come from the intersection of curiosity and persistence.
+1. Learning to say no protects the space needed to say yes to what truly matters.
+2. The stories we tell ourselves shape the reality we create.
 
 ---
 
-*Last updated: 2026-10-17 12:41:40*
+*Last updated: 2026-10-18 12:58:20*
 
 *This README is automatically regenerated daily with fresh thoughts.*
