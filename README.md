@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-10-18)
+## Today's Thoughts (2026-10-19)
 
-1. Learning to say no protects the space needed to say yes to what truly matters.
-2. The stories we tell ourselves shape the reality we create.
+1. Growth happens when we choose to embrace challenge over comfort.
+2. Our greatest limitations often exist only in the boundaries of our imagination.
 
 ---
 
-*Last updated: 2026-10-18 12:58:20*
+*Last updated: 2026-10-19 16:12:06*
 
 *This README is automatically regenerated daily with fresh thoughts.*
