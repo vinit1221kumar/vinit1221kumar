@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-10-21)
+## Today's Thoughts (2026-10-22)
 
-1. Creativity flourishes when we give ourselves permission to explore without judgment.
-2. Patience and persistence are the foundation upon which lasting achievements are built.
+1. Clarity of vision emerges from honest reflection, not from endless planning.
+2. Failure is not the opposite of success—it's a prerequisite for it.
 
 ---
 
-*Last updated: 2026-10-21 14:20:27*
+*Last updated: 2026-10-22 14:20:57*
 
 *This README is automatically regenerated daily with fresh thoughts.*
