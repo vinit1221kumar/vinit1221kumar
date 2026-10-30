@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-10-29)
+## Today's Thoughts (2026-10-30)
 
-1. Innovation thrives at the boundary between what is known and what is possible.
-2. The greatest discoveries often come from the intersection of curiosity and persistence.
+1. Learning to say no protects the space needed to say yes to what truly matters.
+2. Clarity of vision emerges from honest reflection, not from endless planning.
 
 ---
 
-*Last updated: 2026-10-29 15:51:33*
+*Last updated: 2026-10-30 15:32:46*
 
 *This README is automatically regenerated daily with fresh thoughts.*
