@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-10-30)
+## Today's Thoughts (2026-10-31)
 
-1. Learning to say no protects the space needed to say yes to what truly matters.
-2. Clarity of vision emerges from honest reflection, not from endless planning.
+1. The stories we tell ourselves shape the reality we create.
+2. The quality of our attention determines the quality of our work and relationships.
 
 ---
 
-*Last updated: 2026-10-30 15:32:46*
+*Last updated: 2026-10-31 15:02:41*
 
 *This README is automatically regenerated daily with fresh thoughts.*
