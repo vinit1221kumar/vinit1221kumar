@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-10-31)
+## Today's Thoughts (2026-11-01)
 
-1. The stories we tell ourselves shape the reality we create.
-2. The quality of our attention determines the quality of our work and relationships.
+1. True learning requires us to unlearn what we thought we knew.
+2. The questions we ask shape the answers we discover and the paths we take.
 
 ---
 
-*Last updated: 2026-10-31 15:02:41*
+*Last updated: 2026-11-01 15:45:50*
 
 *This README is automatically regenerated daily with fresh thoughts.*
