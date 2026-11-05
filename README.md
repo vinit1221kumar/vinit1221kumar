@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-11-04)
+## Today's Thoughts (2026-11-05)
 
-1. The future belongs to those who build instead of merely observe.
-2. The only way to do great work is to care deeply about what you do.
+1. True learning requires us to unlearn what we thought we knew.
+2. The discipline to start is important, but the discipline to finish is transformative.
 
 ---
 
-*Last updated: 2026-11-04 16:50:42*
+*Last updated: 2026-11-05 17:05:53*
 
 *This README is automatically regenerated daily with fresh thoughts.*
