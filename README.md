@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-11-09)
+## Today's Thoughts (2026-11-10)
 
-1. Every moment is a choice to move closer to or further from your potential.
-2. Real progress is measured by the depth of understanding, not the speed of execution.
+1. Meaningful impact comes from consistent effort applied over time, not from sudden bursts.
+2. The only way to do great work is to care deeply about what you do.
 
 ---
 
-*Last updated: 2026-11-09 19:29:47*
+*Last updated: 2026-11-10 16:46:59*
 
 *This README is automatically regenerated daily with fresh thoughts.*
