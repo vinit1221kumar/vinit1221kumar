@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-11-17)
+## Today's Thoughts (2026-11-18)
 
-1. Innovation thrives at the boundary between what is known and what is possible.
-2. Collaboration multiplies possibilities that individual effort alone cannot reach.
+1. Complexity is often the enemy of execution; simplicity creates momentum.
+2. Failure is not the opposite of success—it's a prerequisite for it.
 
 ---
 
-*Last updated: 2026-11-17 18:08:59*
+*Last updated: 2026-11-18 17:47:05*
 
 *This README is automatically regenerated daily with fresh thoughts.*
