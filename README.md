@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-11-18)
+## Today's Thoughts (2026-11-19)
 
-1. Complexity is often the enemy of execution; simplicity creates momentum.
-2. Failure is not the opposite of success—it's a prerequisite for it.
+1. Every moment is a choice to move closer to or further from your potential.
+2. The courage to experiment is what turns theory into practice and dreams into reality.
 
 ---
 
-*Last updated: 2026-11-18 17:47:05*
+*Last updated: 2026-11-19 17:57:53*
 
 *This README is automatically regenerated daily with fresh thoughts.*
