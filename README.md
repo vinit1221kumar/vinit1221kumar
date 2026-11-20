@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-11-19)
+## Today's Thoughts (2026-11-20)
 
-1. Every moment is a choice to move closer to or further from your potential.
-2. The courage to experiment is what turns theory into practice and dreams into reality.
+1. Creativity flourishes when we give ourselves permission to explore without judgment.
+2. The only way to do great work is to care deeply about what you do.
 
 ---
 
-*Last updated: 2026-11-19 17:57:53*
+*Last updated: 2026-11-20 17:32:49*
 
 *This README is automatically regenerated daily with fresh thoughts.*
