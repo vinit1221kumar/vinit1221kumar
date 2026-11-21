@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-11-20)
+## Today's Thoughts (2026-11-21)
 
-1. Creativity flourishes when we give ourselves permission to explore without judgment.
-2. The only way to do great work is to care deeply about what you do.
+1. The best time to plant a tree was yesterday; the second best time is now.
+2. The power to change begins with the courage to see things differently.
 
 ---
 
-*Last updated: 2026-11-20 17:32:49*
+*Last updated: 2026-11-21 16:36:18*
 
 *This README is automatically regenerated daily with fresh thoughts.*
