@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-11-21)
+## Today's Thoughts (2026-11-22)
 
-1. The best time to plant a tree was yesterday; the second best time is now.
-2. The power to change begins with the courage to see things differently.
+1. True confidence comes from accepting both our strengths and our limitations.
+2. Our greatest limitations often exist only in the boundaries of our imagination.
 
 ---
 
-*Last updated: 2026-11-21 16:36:18*
+*Last updated: 2026-11-22 16:53:32*
 
 *This README is automatically regenerated daily with fresh thoughts.*
