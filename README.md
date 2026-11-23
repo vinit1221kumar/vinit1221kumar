@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-11-22)
+## Today's Thoughts (2026-11-23)
 
-1. True confidence comes from accepting both our strengths and our limitations.
-2. Our greatest limitations often exist only in the boundaries of our imagination.
+1. The obstacles we face are the raw material for our greatest achievements.
+2. The discipline to start is important, but the discipline to finish is transformative.
 
 ---
 
-*Last updated: 2026-11-22 16:53:32*
+*Last updated: 2026-11-23 20:52:35*
 
 *This README is automatically regenerated daily with fresh thoughts.*
