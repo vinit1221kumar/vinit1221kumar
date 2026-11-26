@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-11-25)
+## Today's Thoughts (2026-11-26)
 
-1. Complexity is often the enemy of execution; simplicity creates momentum.
-2. Innovation thrives at the boundary between what is known and what is possible.
+1. The best time to plant a tree was yesterday; the second best time is now.
+2. Learning to say no protects the space needed to say yes to what truly matters.
 
 ---
 
-*Last updated: 2026-11-25 18:58:15*
+*Last updated: 2026-11-26 18:49:24*
 
 *This README is automatically regenerated daily with fresh thoughts.*
