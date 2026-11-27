@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-11-26)
+## Today's Thoughts (2026-11-27)
 
-1. The best time to plant a tree was yesterday; the second best time is now.
-2. Learning to say no protects the space needed to say yes to what truly matters.
+1. The discipline to start is important, but the discipline to finish is transformative.
+2. Innovation thrives at the boundary between what is known and what is possible.
 
 ---
 
-*Last updated: 2026-11-26 18:49:24*
+*Last updated: 2026-11-27 18:41:09*
 
 *This README is automatically regenerated daily with fresh thoughts.*
