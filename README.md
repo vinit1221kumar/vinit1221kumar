@@ -6,13 +6,13 @@ Every day at a scheduled time, this repository generates exactly 2 unique, refle
 
 ---
 
-## Today's Thoughts (2026-11-27)
+## Today's Thoughts (2026-11-28)
 
-1. The discipline to start is important, but the discipline to finish is transformative.
-2. Innovation thrives at the boundary between what is known and what is possible.
+1. Progress is not linear; every setback carries lessons that propel us forward.
+2. The only way to do great work is to care deeply about what you do.
 
 ---
 
-*Last updated: 2026-11-27 18:41:09*
+*Last updated: 2026-11-28 17:21:57*
 
 *This README is automatically regenerated daily with fresh thoughts.*
